@@ -1,0 +1,5 @@
+package OOP.annotation;
+
+public class PrintAnnotation {
+
+}

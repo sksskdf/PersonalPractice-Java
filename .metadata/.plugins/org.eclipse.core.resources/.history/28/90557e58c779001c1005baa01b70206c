@@ -1,0 +1,21 @@
+package OOP.constructorthis;
+
+public class Dog {
+	String kind;
+	int age;
+	String name;
+	
+	
+	//this()를 이용한 생성자 오버로드,중복 제거
+	Dog(String name){
+		this("puddle",1,name);
+	}
+	
+	Dog(String kind,int age,String name){
+		this.kind=kind;
+		this.age=age;
+		this.name=name;
+	}
+	
+	
+}

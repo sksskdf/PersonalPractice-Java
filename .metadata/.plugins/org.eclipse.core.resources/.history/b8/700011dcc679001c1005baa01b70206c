@@ -1,0 +1,9 @@
+package OOP.constructorthis;
+
+public class constructorthis {
+	String kind;
+	int age;
+	String name;
+	
+	
+}

@@ -1,0 +1,9 @@
+package OOP.constructorthis;
+
+public class DogEx {
+	public static void main(String[] args) {
+		Dog choco = new Dog("choco");
+		System.out.println(choco.getClass());
+		System.out.println(choco.toString());
+	}
+}

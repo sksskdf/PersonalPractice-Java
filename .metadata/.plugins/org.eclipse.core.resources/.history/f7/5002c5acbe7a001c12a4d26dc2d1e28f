@@ -1,0 +1,10 @@
+package OOP.annotation;
+
+public class PrintAnnotationExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

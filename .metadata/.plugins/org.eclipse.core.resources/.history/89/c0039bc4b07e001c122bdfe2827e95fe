@@ -1,0 +1,8 @@
+package OOP.forin;
+
+public class forin {
+	int[] arr = new int[3];
+	for(int ar : arr) {
+		System.out.println(ar);
+	}
+}
