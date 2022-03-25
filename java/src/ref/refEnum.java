@@ -23,5 +23,6 @@ public class refEnum {
 
         Rainbow rb = Rainbow.valueOf("GREEN");
         System.out.println(rb);
+
     }
 }
