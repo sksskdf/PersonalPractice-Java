@@ -1,12 +1,11 @@
 package ref;
 
-import java.awt.image.ImageProducer;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Random;
-import java.util.concurrent.CountDownLatch;
-import java.util.function.*;
+import java.util.function.BiConsumer;
+import java.util.function.Consumer;
+import java.util.function.Predicate;
 
 public class refLambda {
 

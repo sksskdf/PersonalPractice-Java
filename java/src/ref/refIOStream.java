@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 
-public class refStream {
+public class refIOStream {
     public static void main(String[] args){
         try {
             // "rw" 모드로 "data.txt" 파일을 개방함.
