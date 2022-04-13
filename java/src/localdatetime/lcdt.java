@@ -14,7 +14,7 @@ public class lcdt {
         String dt1 = date.atTime(time).format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm"));
         System.out.println(dt1);
         LocalDateTime lcdt1 = LocalDateTime.now();
-        LocalTime lt = lcdt1.toLocalTime().;
+        LocalTime lt = lcdt1.toLocalTime();
         System.out.println(lt);
     }
 }
