@@ -11,7 +11,7 @@ public class factoryEx {
     static class Computer {
         private long ram;
         private long cpu;
-
+        //ABCDEFG
         void run(){
             String name = this.getClass().getSimpleName();
             System.out.printf("%s is start to run\n",name);
