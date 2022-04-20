@@ -42,6 +42,9 @@ public class ex1 {
                 System.out.println("The ~~~~~~~~~~~~~~~~~~~~~");
             }
         }
+
+        System.out.println(circle.getClass()==Circle.class);
+        System.out.println(Rectangle.class.isInstance(rect));
     }
 
 }
