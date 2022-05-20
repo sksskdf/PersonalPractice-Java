@@ -25,5 +25,6 @@ public class convertHolidayFormat2 {
         String a = "202204";
         System.out.println(a.substring(0,4));
         System.out.println(a.substring(4,6));
+        System.out.println(a.substring(5,6));
     }
 }
