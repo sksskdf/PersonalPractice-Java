@@ -9,5 +9,6 @@ public class ex {
         System.out.println(initYearMonth.substring(0, 4));
         System.out.println(initYearMonth.substring(4, 6));
         System.out.println(initYearMonth);
+        System.out.println(initYearMonth);
     }
 }
